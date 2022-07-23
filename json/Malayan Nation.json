@@ -1,0 +1,195 @@
+[
+    {
+        "name": "Malacca",
+        "name leader": "Parameswara",
+        "adjective": ["Malaccan"],
+        "startbias": ["Jungle"],
+        "preferredVictoryType": "Diplomatic",
+        "favoredreligion":"Islam",
+
+        "startIntroPart1": "TBD",
+        "startIntroPart2": "TBD",
+
+        "declaring war": "Kurang ajar!",
+        "attacking": "Kami tak akan menyerah!",
+        "defeated": "Kami akan bangkit satu hari nanti..",
+        "Introduction": "Selamat datang ke Melaka, tempat perdagangan dan perlindungan",
+        
+        "neutralHello": "Assalamualaikum",
+        "neutralLetsHearIt": ["Ya.","Katakannya"],
+        "neutralNo": ["Hamba tidak boleh terima"],
+        "neutralYes": ["Hamba tak akan menolak, hamba terima!"],
+        "hateHello":"Apa yang tuan hamba mahu lagi?",
+        "hateLetsHearIt":"Apa tawaran tuan hamba?",
+        "hateNo": "Hamba menolak tawaran ini!",
+        "hateYes":"Hamba terima.",
+
+        "afterPeace": "Mari kita raikan hari yang mulia ini!",
+        "tradeRequest": "Ini tawaran hamba, adakah tuan hamba berminat?",
+
+        "outerColor": [ 0, 0, 127],
+        "innerColor": [ 255, 255, 0],
+        "unique name": "Port of Nusantara",
+        "unique text": "+2 Faith in all cities in Medieval era",
+        "uniques": ["+[20]% culture when constructing [Culture] buildings"],
+        "uniques":["+5 Gold from each Market"],
+        "cities": [ "Melaka", "Alor Gajah", "Jasin", "Batu pahat,", "Muar", "Pagoh", 
+    "Ledang", "Segamat", "Linggi", "Kelang", "Ujong tanah", "Singapura", "Aru", "Rokan",
+"Kampar", "Siak", "Pekantua", "Keritang", "Pahang", "Terengganu", "Siantan", "Bintan",
+"Riau", "Perak", "Kedah", "Pattani", ]
+    },
+          {
+            "name": "Kedah tua",
+            "leaderName": "Merong Mahawangsa",
+            "adjective": "Melayu Kedah",
+            "startBias": "Jungle",
+            "preferred victory type": "Cultural",
+            "favoredreligion": ["Hinduism","Buddhism"],
+
+            "startIntroPart1": "TBD",
+            "startIntroPart2": "TBD",
+
+            "declaring war": "Kami akan melindungi tanah air kami mati!",
+            "attacking": "Kami tak akan biarkan cucu-cicit kami masih berada di bawah jajahan kamu!",
+            "defeated": "Tuan hamba telah menghancurkan bumi Melayu dan merosakkan orang-orang melayu..",
+            "Introduction": "Hamba adalah raja jentayu langkasuka",
+
+            "neutralHello": "Apa khabar",
+            "neutralLetsHearIt": ["Baik","Mari bincang"],
+            "neutralNo": ["Maaf, hamba menolak." , "Hamba tidak berminat dengan tawaran ini."],
+            "neutralYes": ["Bagus" , "Hamba berminat"],
+            "hateHello": ["Apa?"],
+            "hateLetsHearIt": ["Cakap!"],
+            "hateNo": ["Usah buat hamba ketawa", "tuan hamba boleh pergi dengan jenaka ini!"],
+            "hateYes": ["Baiklah, hamba akan menerima tawaran ini"],
+
+            "afterPeace": ["Kami harap perang ini tidak berlaku lagi."],
+            "tradeRequest": ["Adakah tawaran ini sukar untuk tuan hamba terima?"],
+
+            "outerColor": [ 255, 0, 0],
+            "innerColor": [ 255, 255, 0],
+            "unique name": ["The hunter of Garudas"],
+            "unique text": "+5 Faith from every wonders",
+            "uniques": ["[+1 Gold] from each Trade Route","[+5 Science] from each pasture"],
+            "uniques":["[+2 Gold] from each [Luxury Recources]","Units pay only 1 movement to embark and disembark","[+1 Culture] from each pasture"],
+            "cities":["Alor setar","Langkawi","Kedah","Perak","Kelantan","Chermin","Phuket","Narathiwat",
+        "Yala","Satun","Perlis","Surat thani","Krabi","Songkhla","Trang","Nakhon Si Thammarat","Ranong"]
+          },
+                {
+            "name": "Johor riau",
+            "leaderName": "Alauddin Riayat Shah II",
+            "adjective": "Melayu Johor",
+            "startBias": ["Jungle","Coast"],
+            "preferredVictoryType": "Cultural",
+            "favoredreligion":"Islam",
+
+            "startIntroPart1": "TBD",
+            "startIntroPart2": "TBD",
+
+            "declaring war": "Kami tak akan menyerah tanah air kami kepada penjajah!",
+            "attacking": "Tuan hamba akan sedar yang tuan hamba sedang merosakkan dunia rakyat yang tidak bersalah.",
+            "defeated": "Rumah,Padang,Pasar dan Istana.. semua telah hancur..",
+            "Introduction": "Selamat datang ke kepulauan Riau, Kubur penjajah Belanda dan Portugis.",
+
+            "neutralHello": "Assalamualaikum",
+            "neutralLetsHearIt": ["Ya","Katakannya"],
+            "neutralNo": ["Hamba tidak boleh menerima cadangan ini","Maaf, hamba menolak."],
+            "neutralYes": ["Hamba tidak akan menolak tawaran tuan hamba","Hamba berminat dengan tawaran tuan hamba"],
+            "hateHello": ["Apa?"],
+            "hateLetsHearIt":["Cakap!"],
+            "hateNo": ["Usap harap hamba menerima tawaran tuan hamba!"],
+            "hateYes": ["Walaupun kita bermusuh, tetapi, hamba akan terima tawaran tuan hamba"],
+           
+            "afterPeace": ["Kami harap perang ini tidak berlaku lagi."],
+            "tradeRequest":"Ini tawaran hamba, adakah tuan hamba berminat?",
+
+            "outerColor": [ 0, 0, 0],
+            "innerColor": [ 255, 255, 255],
+            "unique name": ["Graveyard of Iberia and Batavia"],
+            "unique text": ["[+4 Food] from every [Rice]","[+1 Gold] from every Pearls"],
+            "uniques": ["[+2 Food] from each [Rice]","[+1 Gold] from every Pearls"],
+            "uniques": ["[+2 Gold] from each [Luxury Recources]", "+[20]% culture when constructing [Culture] buildings"],
+            "cities": ["Batu pahat,","Ujong tanah","Muar","Siantan","Bintan","Keritang","Siak",
+        "Riau","Pahang","Rokan","Pekantua","Kampar","Pagoh","Ledang","Jasin","Alor Gajah","Segamat",
+        "Linggi","Kelang"]
+
+                },
+                       {
+            "name": "Brunei",
+            "leaderName": "Muhammad Shah",
+            "adjective": "Bruneian",
+            "startBias": ["Jungle","Mountain"],
+            "preferredVictoryType": "Diplomatic",
+            "favoredreligion": "Islam",
+
+            "startIntroPart1": "TBD",
+            "startIntroPart2": "TBD",
+
+            "declaring war": "Kurang ajar!",
+            "attacking":"Kami tak akan menyerah!",
+            "defeated": "Sampainya masa bumi Melayu berakhir..",
+            "Introduction": "tuan hamba melihat kepada raja brunei, maharaja borneo dan pemerintah filipina yang sah.",
+
+            "neutralHello": "Apa khabar",
+            "neutralLetsHearIt": ["Ya","Katakannya"],
+            "neutralNo": ["Maaf, hamba menolak.","Hamba tidak boleh terima"],
+            "neutralYes": ["Hamba tidak akan menolak tawaran tuan hamba"],
+            "hateHello": "Apa yang tuan hamba mahu lagi?",
+            "hateLetsHearIt": ["Cakap!","Apa?"],
+            "hateNo": ["Usah buat hamba ketawa"],
+            "hateYes": ["Walaupun kita bermusuh, tetapi, hamba akan terima tawaran tuan hamba"],
+
+            "afterPeace": ["Kami harap perang ini tidak berlaku lagi."],
+            "tradeRequest": ["sudi tuan hamba menerima tawaran hamba?"],
+
+            "outerColor": [ 255, 255, 0],
+            "innerColor": [ 255, 255, 0],
+            "unique name": ["Walls of Borneo"],
+            "unique text": ["[+1 Gold] from every Pearls", "[+4 Food] from every [Rice]"],
+            "uniques":["[+1 Gold] from every Pearls", "[+4 Food] from every [Rice]"],
+            "uniques": ["+[20]% culture when constructing [Culture] buildings","[+2 Faith] from each mosque"],
+            "cities": ["Brunei","Lawas","Limbang","Temburong","Sipitang","Tenom","Kuala Penyu","Papar","Penampang","Tambunan","Ranau",
+        "Tuaran","Kudat","Beluran","Kinabatangan","Berau","Maimbung","Balabak","Baram","Hulu rajang","Tutong","Miri",
+                       },
+                                {
+            "name": "Gangga negara",
+            "leaderName": "Gangga Shah Johan",
+            "adjective": "Melayu Gangga",
+            "startBias": ["Jungle","Hills"],
+            "preferredVictoryType": "Cultural",
+            "favoredreligion": "Hinduism",
+
+            "startIntroPart1": "Gangga Negara is believed to be a lost semi-legendary Malay-Hindu kingdom mentioned in
+             the Malay Annals that covered present day Beruas, Dinding and Manjung in the state of Perak,
+             it collapsed after an attack by King Rajendra Chola I of Coromandel, South India",
+             "startIntroPart2": "Oh King Gangga Shah Johan of Gangga negara, will you accept this challenge? will you rise the Gangga
+             and spread the malay culture again? if yes, then lets do this!",
+
+             "declaring war": "Kurang ajar!",
+             "attacking": "Kami tak akan biarkan cucu-cicit kami masih berada di bawah jajahan kamu!",
+             "defeated": "Sampainya masa bumi Melayu berakhir..",
+             "Introduction": "Tuan hamba melihat kepada raja kerajaan gangga purba yang hilang",
+
+             "neutralHello" : "Apa khabar",
+             "neutralLetsHearIt": ["Ya","Katakannya"],
+             "neutralNo": ["Hamba tidak berminat dengan tawaran ini."],
+             "neutralYes": ["Bagus","Hamba berminat dengan tawaran tuan hamba"],
+             "neutralNo": ["Maaf, hamba menolak."],
+             "hateHello": "Apa yang tuan hamba mahu lagi?",
+             "hateLetsHearIt": ["Apa?","Cakap!"],
+             "hateNo": ["tuan hamba boleh pergi dengan jenaka ini!"],
+             "hateYes": ["Walaupun kita bermusuh, tetapi, hamba akan terima tawaran tuan hamba"],
+
+             "afterPeace": "Kami harap perang ini tidak berlaku lagi.",
+             "tradeRequest": "Ini tawaran hamba, adakah tuan hamba berminat?",
+
+             "outerColor": [ 255, 0, 0],
+             "innerColor": [ 255, 255, 255],
+             "unique name": "The Lost Kingdom Of Gangganagara",
+             "unique text": ["[+2 Gold] from every Pearls","[+1 Faith] from every National Wonders"],
+             "uniques": ["[+2 Gold] from every Pearls","[+1 Faith] from every National Wonders"], 
+             "uniques": ["[+2 Food] from each [Rice]", "[+2 Science] from every Camphor"],
+             "cities": ["Beruas","Dinding","Manjung","Kelang","Perak"]
+
+
+
